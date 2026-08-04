@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/dummy file.md",
+                "file": "content/Dual-Homed Routing Conflicts & DHCP Hijacking 7.29.26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dummy file"
+              "title": "Dual-Homed Routing Conflicts & DHCP Hijacking 7.29.26"
             }
           }
         ]
@@ -188,7 +188,13 @@
   },
   "active": "b0737c47e701b4a6",
   "lastOpenFiles": [
+    "Untitled.md",
+    "content/Dual-Homed Routing Conflicts & DHCP Hijacking 7.29.26.md",
+    "content/Phase 1 - Cisco Foundation and Routing 1.md",
     "content/dummy file.md",
+    "content/Raspberry Pi Edge Gateway - Setup & Optimization.md",
+    "content/Phase 3 - Network Monitoring and LibreNMS 1.md",
+    "content/Phase 2 - Edge Gateway and Server Integration.md",
     "dummy file",
     "Welcome.md",
     "content"
