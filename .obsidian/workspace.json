@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/README.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
@@ -201,10 +201,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e8bbbec8761e979c",
+  "active": "adb3998a6fa83b72",
   "lastOpenFiles": [
     "content/Raspberry Pi Edge Gateway - Setup & Optimization.md",
-    "content/README.md",
+    "README.md",
     "content/Phase 3 - Network Monitoring and LibreNMS 1.md",
     "content/Phase 2 - Edge Gateway and Server Integration.md",
     "content/Phase 1 - Cisco Foundation and Routing 1.md",
