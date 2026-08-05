@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Raspberry Pi Edge Gateway - Setup & Optimization"
             }
+          },
+          {
+            "id": "e8bbbec8761e979c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,15 +201,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "adb3998a6fa83b72",
+  "active": "e8bbbec8761e979c",
   "lastOpenFiles": [
+    "content/Raspberry Pi Edge Gateway - Setup & Optimization.md",
+    "content/README.md",
     "content/Phase 3 - Network Monitoring and LibreNMS 1.md",
     "content/Phase 2 - Edge Gateway and Server Integration.md",
     "content/Phase 1 - Cisco Foundation and Routing 1.md",
     "content/Dual-Homed Routing Conflicts & DHCP Hijacking 7.29.26.md",
-    "Untitled.md",
     "content/dummy file.md",
-    "content/Raspberry Pi Edge Gateway - Setup & Optimization.md",
     "dummy file",
     "Welcome.md",
     "content"
