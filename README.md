@@ -29,9 +29,7 @@ Welcome to my homelab repository. This vault serves as the live documentation, a
 | **DevOps**                | Git, GitHub, Obsidian                      |
 
 ---
-### 🗺️ Network Topology
-![Lab Topology Map]
-<img width="922" height="580" alt="image" src="https://github.com/user-attachments/assets/7f6cb954-a2c6-4cd3-b9a6-1f95244f810d" />
+
 
 ### 🚀 Recent Milestones & Projects
 
