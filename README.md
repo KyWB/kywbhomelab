@@ -30,8 +30,9 @@ Welcome to my homelab repository. This vault serves as the live documentation, a
 
 ---
 ### 🗺️ Network Topology
-![Lab Topology Map](<img width="922" height="580" alt="Screenshot 2026-08-05 194257" src="https://github.com/user-attachments/assets/f116ac0c-e276-4fab-a2a2-4936485fa41e" />)
-)
+![Lab Topology Map]
+<img width="922" height="580" alt="image" src="https://github.com/user-attachments/assets/7f6cb954-a2c6-4cd3-b9a6-1f95244f810d" />
+
 ### 🚀 Recent Milestones & Projects
 
 * **Engineered** a router-on-a-stick topology on a Raspberry Pi and Cisco Catalyst switch using 802.1Q VLAN trunking, boosting inter-VLAN throughput to 819 Mbps.
