@@ -4,8 +4,6 @@ Welcome to my homelab repository. This vault serves as the live documentation, a
 
 ### 📂 Active Documentation
 * [View the Latest Content & Configurations](./content)
-* [Latest Document]
-* (./Raspberry Pi Edge Gateway - Setup & Optimization.md)
 ---
 
 ### ⚙️ Hardware Architecture
