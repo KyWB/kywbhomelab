@@ -12,7 +12,8 @@ Welcome to my homelab repository. This vault serves as the live documentation, a
 | :-------------- | :--------------- | :------------------------------------------- |
 | **Edge Router** | Raspberry Pi     | NAT, Inter-VLAN Routing (Router-on-a-Stick)  |
 | **Core Switch** | Cisco Catalyst   | Layer 2 Switching, 802.1q Trunking           |
-| **Management**  | Windows Laptop   | Network Benchmarking, SSH, Version Control   |
+| **Management**  | Windows Laptop   | Network Benchmarking, SSH, Version Control 
+|**Auxillary Device**|Mini Mac       |Exploit and Red-teaming lab
 | **Branch Node** | Cisco 800 Series | Site-to-Site Routing Protocol Lab (OSPF/BGP) |
 
 ---
@@ -24,7 +25,7 @@ Welcome to my homelab repository. This vault serves as the live documentation, a
 | **Networking Protocols**  | 802.1Q, IPv4 Routing, NAT, DHCP, TCP/UDP   |
 | **Quality of Service**    | Layer 2 DSCP (Expedited Forwarding)        |
 | **Operating Systems**     | Debian Linux, Cisco IOS, Windows 11        |
-| **Observability & Tools** | librenms, iperf3, tracert, ipconfig, netsh |
+| **Observability & Tools** | librenms, iperf3, Authentik, Pi-Hole,Firewalld|
 | **DevOps**                | Git, GitHub, Obsidian                      |
 
 ---
@@ -38,3 +39,4 @@ Welcome to my homelab repository. This vault serves as the live documentation, a
 * **Engineered** a router-on-a-stick topology on a Raspberry Pi and Cisco Catalyst switch using 802.1Q VLAN trunking, boosting inter-VLAN throughput to 819 Mbps.
 * **Benchmarked** local LAN throughput using iperf3 and tracert to identify physical Layer 1/2 hardware bottlenecks and verify gigabit speeds.
 * **Resolved** Windows TCP/IP driver conflicts and virtual adapter DHCP failures by reconfiguring static IP bindings and netsh parameters.
+* **Utilized** Industry services for enhanced DNS consistency, SSO for administrator tools, and proxies for organization of services. 
